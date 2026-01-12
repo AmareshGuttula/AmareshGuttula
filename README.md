@@ -1,7 +1,6 @@
 # 💫 About Me:
 I’m currently working on<br>Building modern websites and SaaS-style UIs using React, Next.js, and Tailwind CSS, plus growing my SMMA brand Welwaat.<br><br>I’m looking to collaborate on<br>Full stack projects, UI/UX design, SaaS products, and social media tools or dashboards<br><br>I’m looking for help with<br>Scaling systems, building strong tech teams, and product-market fit strategies.<br><br>I’m currently learning<br>Startup growth frameworks, system design, and product leadership.<br><br>Ask me about<br>Building apps & websites, SaaS development, Chrome extensions, React & Next.js, Tailwind CSS, GitHub workflows, cloud storage (AWS S3), and product deployment.<br><br>Fun fact<br>I don’t just write code—I build complete digital products from idea to production. ⚡
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amarguttula) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amareshguttula) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/amarguttula) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:welwaat@gmail.com) 
 
